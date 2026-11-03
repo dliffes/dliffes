@@ -13,15 +13,13 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/>
 
 ![Snake animation](https://raw.githubusercontent.com/dliffes/dliffes/output/github-snake-dark.svg)
 
-<br/>
 
 ![Pac-Man](https://raw.githubusercontent.com/dliffes/dliffes/pacman-output/pacman-contribution-graph-dark.svg)
+
+<br/>
 
 <div align="center">
   <pre>
