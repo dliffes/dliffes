@@ -1,10 +1,10 @@
-<div align="center">
+<div align="center" style="background-image: url('fon.webp'); background-size: cover; background-position: center; padding: 60px 20px; border-radius: 10px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;I'm+dliffes;Programmist+Ya" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;I'm+dliffes;Programmist+Ya" alt="Typing SVG" />
   </a>
-</div>
+  
+  <br/>
 
-<div align="center"
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000&color=A020F0" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&color=A020F0" />
 </div>
