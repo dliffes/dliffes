@@ -1,8 +1,10 @@
-      <h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Hello,+I'm+dliffes;Ya+programmist;Welcome+to+my+profile+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;I'm+dliffes;Frontend+Developer;Neon+Enthusiast" alt="Typing SVG" />
   </a>
-</h1>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000&color=A020F0" />
@@ -16,4 +18,7 @@
 <br/>
 
 ![Snake animation](https://raw.githubusercontent.com/dliffes/dliffes/output/github-snake-dark.svg)
+
+<br/>
+
 ![Pac-Man](https://raw.githubusercontent.com/dliffes/dliffes/pacman-output/pacman-contribution-graph-dark.svg)
