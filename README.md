@@ -16,3 +16,4 @@
 <br/>
 
 ![Snake animation](https://raw.githubusercontent.com/dliffes/dliffes/output/github-snake-dark.svg)
+![Pac-Man](https://raw.githubusercontent.com/dliffes/dliffes/output/pacman-contribution-graph-dark.svg)
