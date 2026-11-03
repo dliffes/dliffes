@@ -43,5 +43,5 @@
   <br/>
 
 <div align="center">
-  <img src="neon.webp" alt="Neon City" width="800" />
+  <img src="neon.webp" alt="Neon City" width="500" />
 </div>
