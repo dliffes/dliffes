@@ -43,7 +43,7 @@
   </pre>
   <br/>
   <div align="center">
-  <img src="neon.webp" alt="Neon City" width="100%" />
+  <img src="neon.webp" alt="Neon City" width="600" />
 </div>
 
 </div>
