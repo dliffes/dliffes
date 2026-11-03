@@ -1,5 +1,4 @@
-<div align="center" style="background-image: url('fon.webp'); background-size: cover; background-position: center; padding: 60px 20px; border-radius: 10px;">
-  <a href="https://git.io/typing-svg">
+ <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;I'm+dliffes;Programmist+Ya" alt="Typing SVG" />
   </a>
   
