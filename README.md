@@ -13,9 +13,7 @@
 
 <br/>
 
-
 ![Snake animation](https://raw.githubusercontent.com/dliffes/dliffes/output/github-snake-dark.svg)
-
 
 ![Pac-Man](https://raw.githubusercontent.com/dliffes/dliffes/pacman-output/pacman-contribution-graph-dark.svg)
 
@@ -39,9 +37,10 @@
 ⣆⢕⠄⢱⣄⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢁⢕⢕⠕⢁      ⣿⠃⠃⠄⠄⠄⠄⠄⠄⣀⢀⠄⠄⡀⡀⢀⣤⣴⣤⣤⣀⣀⠄⠄⠄⠄⠄⠄⠁⢹
 ⣿⣦⡀⣿⣿⣷⣶⣬⣍⣛⣛⣛⡛⠿⠿⠿⠛⠛⢛⣛⣉⣭⣤⣂⢜⠕⢑⣡⣴⣿      .........................................
   </pre>
-  <br/>
-  <div align="center">
-  <img src="neon.webp" alt="Neon City" width="600" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="neon.webp" alt="Neon City" width="600" />
 </div>
