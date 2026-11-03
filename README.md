@@ -41,4 +41,8 @@
 ⣆⢕⠄⢱⣄⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢁⢕⢕⠕⢁      ⣿⠃⠃⠄⠄⠄⠄⠄⠄⣀⢀⠄⠄⡀⡀⢀⣤⣴⣤⣤⣀⣀⠄⠄⠄⠄⠄⠄⠁⢹
 ⣿⣦⡀⣿⣿⣷⣶⣬⣍⣛⣛⣛⡛⠿⠿⠿⠛⠛⢛⣛⣉⣭⣤⣂⢜⠕⢑⣡⣴⣿      .........................................
   </pre>
+  <br/>
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dliffes&bg_color=00000000&color=A020F0&line=A020F0&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 </div>
